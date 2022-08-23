@@ -21,7 +21,8 @@ python3 -m pip install -r requirements.txt
 ## How to use it ?
 
 ```py 
-python3 HexaBin.py -hex [number] -bin [number] -b2h [binary] -h2b [hexadecimal]
+python3 HexaBin.py -encode hex 41
+python3 HexaBin.py -decode 0x64
 ```
 
 ### Contributors
