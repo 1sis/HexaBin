@@ -1,6 +1,6 @@
 <h1 align="center">Hexabin</h1>
 <h3 align="center">
-<img src="./img/banner.png" width="250">
+<img src="./img/banner.png" width="750">
 </h3>
 
 
