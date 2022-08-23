@@ -32,7 +32,9 @@ Dxsk : https://github.com/dxsk
        
 Isis : https://twitter.com/0x1sis
 
+Vozec : https://github.com/Voz3c
+        https://twitter.com/Vozec1
 ---
-Soon : v2 with :
-- output file
-- more color !
+Soon : v3 with :
+- more changement
+- PyPi package !
